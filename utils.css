@@ -1,0 +1,37 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.item-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.space-between{
+    justify-content: space-between;
+}
+.section1{
+background-color: gray;
+
+}
+.container{
+    padding: 0 10vw;
+}
+
+.paddingall{
+    padding: 40px 80px;
+}
+.button{
+    cursor: pointer;
+    width: 100px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 4px;
+    padding: 4px;
+    font-weight: 600;
+}
